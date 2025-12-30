@@ -66,7 +66,7 @@ A logo is displayed in the interface for visual identity.
 
 ## Screenshot
 
-![Park-O-Meter Main Screen](main_ui.png)
+![Park-O-Meter Main Screen](Park-O-Meter/main_ui.png)
 
 ---
 
