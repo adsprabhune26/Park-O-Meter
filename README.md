@@ -55,7 +55,7 @@ The system handles vehicle entry and exit, parking slot allocation, time-based c
 ## Screenshots
 
 ### Main Interface
-![Main UI](main_ui.png)
+![Main UI](Park-O-Meter/main_ui.png)
 
 ---
 
